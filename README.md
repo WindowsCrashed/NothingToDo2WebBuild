@@ -1,3 +1,3 @@
-### Play the game here!
+# Play the game here!
 
-# https://windowscrashed.github.io/NothingToDo2WebBuild/
+### https://windowscrashed.github.io/NothingToDo2WebBuild/
